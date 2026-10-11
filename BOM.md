@@ -21,7 +21,7 @@
 | [10k resistor](https://www.amazon.ca/300Pcs-Resistance-Resistor-Five-Color-Clever/dp/B0G2BDXHBP/ref=asc_df_B0G2BDXHBP?mcid=0693200c480532999be16fc163a8c912&tag=googleshopc0c-20&linkCode=df0&hvadid=809596234458&hvpos=&hvnetw=g&hvrand=5517170752851420267&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9192147&hvtargid=pla-2498831222142&psc=1&hvocijid=5517170752851420267-B0G2BDXHBP-&hvexpln=0&gad_source=1) | Acts as a speed bump for the current | 1 | $2.06 | $2.06 | [Amazon](https://www.amazon.ca/300Pcs-Resistance-Resistor-Five-Color-Clever/dp/B0G2BDXHBP/ref=asc_df_B0G2BDXHBP?mcid=0693200c480532999be16fc163a8c912&tag=googleshopc0c-20&linkCode=df0&hvadid=809596234458&hvpos=&hvnetw=g&hvrand=5517170752851420267&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9192147&hvtargid=pla-2498831222142&psc=1&hvocijid=5517170752851420267-B0G2BDXHBP-&hvexpln=0&gad_source=1) |
 | [PCB](https://jlcpcb.com) | Board | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$19.76** | — |
-| **Tax & shipping** | — | — | — | **$8.55** | — |
-| **Total** | — | — | — | **$28.31** | — |
+| **Tax & shipping** | — | — | — | **$10.05** | — |
+| **Total** | — | — | — | **$29.81** | — |
 
-$1.69 left of the tier's funding.
+$0.19 left of the tier's funding.
