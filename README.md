@@ -13,3 +13,7 @@ Starbie is designed to sit on your desk or stay in your hand. It reacts to how y
 ## Why?
 
 This project was for my week one Half-Life. It was the starter project given to us.
+
+**## Gerber and Drill files (zip)**
+
+[Archive.zip](https://github.com/user-attachments/files/33313196/Archive.zip)
