@@ -21,7 +21,7 @@
 | [10k resistor](https://www.aliexpress.com/item/1005012176738771.html?spm=a2g0o.cart.0.0.1a0138dakvAUQm&mp=1&pdp_npi=6%40dis%21CAD%21CAD+9.37%21CAD+4.59%21%21CAD+4.59%21%21%21%402101d33417917576981161860e1308%2112000057679767890%21ct%21CA%216522476049%21%211%210%21) | Acts as a speed bump for the current | 1 | $3.22 | $3.22 | [Ali Express](https://www.aliexpress.com/item/1005012176738771.html?spm=a2g0o.cart.0.0.1a0138dakvAUQm&mp=1&pdp_npi=6%40dis%21CAD%21CAD+9.37%21CAD+4.59%21%21CAD+4.59%21%21%21%402101d33417917576981161860e1308%2112000057679767890%21ct%21CA%216522476049%21%211%210%21) |
 | [PCB](https://jlcpcb.com) | Board | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$19.12** | — |
-| **Tax & shipping** | — | — | — | **$12.86** | — |
-| **Total** | — | — | — | **$31.98** | — |
+| **Tax & shipping** | — | — | — | **$8.55** | — |
+| **Total** | — | — | — | **$27.67** | — |
 
-**$1.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$2.33 left of the tier's funding.
