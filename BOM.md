@@ -5,6 +5,8 @@
 
 > [!NOTE]
 > This parts list is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+>
+> Prices listed are all in USD with current conversion rate from CAD, all the screenshots will be in CAD though.
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
