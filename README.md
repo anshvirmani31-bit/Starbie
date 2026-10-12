@@ -13,3 +13,7 @@ Starbie is designed to sit on your desk or stay in your hand. It reacts to how y
 ## Why?
 
 This project was for my week one Half-Life. It was the starter project given to us.
+
+## How it works
+
+This project includes a handful of parts such as a motion sensor/gyroscope, temperature and humidity sensor, etc. It uses the seeed studio XIAO ESP32-C3 as the brain. It also includes a 0.96 OLED screen for the menu and the firmware found in Starbie.ino allows you to use two of the three buttons to interact with the menu. The only other way to interact with Starbie is to shake it. Starbie takes advantage of the motion sensor to be able to tell when you shake it and it reacts accordingly. If you never interact with starbie it just sits on your desk slowly dying. Starbie also has stats from 0-100 being Joy, Energy, and Fullness. These can be increased or decreased from their starting value based on how you interact with starbie.
