@@ -22,9 +22,9 @@ This project includes a handful of parts such as a motion sensor/gyroscope, temp
 
 Finished PCB
 
-<img width="778" height="685" alt="Screenshot 2026-10-11 at 3 57 45 PM" src="https://github.com/user-attachments/assets/7501445a-9da6-4349-9027-ae73a4ae4ca8" />
+<img width="753" height="686" alt="Screenshot 2026-10-12 at 12 03 18 AM" src="https://github.com/user-attachments/assets/19e23f60-6645-4840-9dad-517aa0c26799" />
 
-<img width="596" height="431" alt="Screenshot 2026-10-11 at 11 55 56 PM" src="https://github.com/user-attachments/assets/94a4e853-06f3-4891-a331-d47feac6f08e" />
+<img width="599" height="563" alt="Screenshot 2026-10-12 at 12 03 53 AM" src="https://github.com/user-attachments/assets/63b5b163-950f-42da-806d-026adc377bf6" />
 
 <img width="804" height="424" alt="Screenshot 2026-10-11 at 11 56 34 PM" src="https://github.com/user-attachments/assets/1ace70fb-4625-4391-8daf-33547fca77e5" />
 
