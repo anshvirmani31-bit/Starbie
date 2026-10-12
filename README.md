@@ -44,6 +44,21 @@ Schematic
 
 <img width="341" height="255" alt="Screenshot 2026-10-11 at 11 19 10 PM" src="https://github.com/user-attachments/assets/c6bb2795-7eed-42a8-8af5-fa130b1d285f" />
 
+## BOM
+| Item             | amount | cost USD (ea.) | Link                                                                  |
+|------------------|--------|----------------|-----------------------------------------------------------------------|
+| XIAO ESP32 C3    | 1      | 13.45          | https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html            |
+| 0.96 OLED        | 1      | 2.76           | https://www.aliexpress.com/item/1005006141235306.html                 |
+| MPU6050          | 1      | 1.92           | https://www.amazon.ca/gp/product/B0GWX4N5N7?smid=AUV9BWKKX5AP0&th=1   |
+| DHT11            | 1      | 3.73           | https://www.aliexpress.com/item/1005009668759587.html                 |
+| MX Switches      | 1      | 2.01           | https://www.amazon.ca/gp/product/B0FQ5DDQYK?smid=A3HCNFR52IFXW0&psc=1 |
+| Keycaps          | 1      | 1.25           | https://www.amazon.ca/gp/product/B0FX22HS4J?smid=A309HCDL4YKIK6&th=1  |
+| 10k Resistor     | 1      | 1.21           | https://www.aliexpress.com/item/1005012176738771.html                 |
+| PCB              | 1      | 3.50           | https://www.jlcpcb.com/                                               |
+|                  |        |                |                                                                       |
+| Total (each kit) | 1      | 30.28          |                                                                       |
+
+
 
 ## Repository Contents
 - `BOM.csv` - Material costs including taxes and shipping
