@@ -24,6 +24,10 @@ Finished PCB
 
 <img width="778" height="685" alt="Screenshot 2026-10-11 at 3 57 45 PM" src="https://github.com/user-attachments/assets/7501445a-9da6-4349-9027-ae73a4ae4ca8" />
 
+<img width="596" height="431" alt="Screenshot 2026-10-11 at 11 55 56 PM" src="https://github.com/user-attachments/assets/94a4e853-06f3-4891-a331-d47feac6f08e" />
+
+<img width="804" height="424" alt="Screenshot 2026-10-11 at 11 56 34 PM" src="https://github.com/user-attachments/assets/1ace70fb-4625-4391-8daf-33547fca77e5" />
+
 Schematic
 
 <img width="414" height="609" alt="Screenshot 2026-10-11 at 11 16 31 PM" src="https://github.com/user-attachments/assets/abca5e7e-9cad-49fa-a33e-a678b7a25f80" />
