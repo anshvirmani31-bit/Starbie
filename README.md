@@ -20,4 +20,5 @@ This project includes a handful of parts such as a motion sensor/gyroscope, temp
 
 ## Repository Contents
 
-- 'KiCad.PCB.zip' - Gerber and Drill files
+- `KiCad.PCB.zip` - Gerber and Drill files
+- `Starbie.ino` - 
