@@ -1,6 +1,6 @@
 # Starbie
 
-<img width="753" height="686" alt="Screenshot 2026-10-12 at 12 03 18 AM" src="https://github.com/user-attachments/assets/b3d5405a-580b-42fe-9379-e42c57d8733a" />
+<img width="725" height="665" alt="Screenshot 2026-10-19 at 3 46 16 PM" src="https://github.com/user-attachments/assets/323ccadf-205d-42f6-a7b3-ac56f5553441" />
 
 
 
