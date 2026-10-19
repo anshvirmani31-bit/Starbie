@@ -12,7 +12,7 @@ Starbie is designed to sit on your desk or stay in your hand. It reacts to how y
 
 ## Why?
 
-This project was for my week one Half-Life. It was the starter project given to us. I added my own touch to it by adding an on/off button. I thought that this could be useful since if you're connecting starbie to a battery back on the go, you may not want it to be constantly draining power, thus, the on/off button.
+This project was for my week one Half-Life. It was the starter project given to us. I added my own touch to it by adding an on/off button. I thought that this could be useful since if you're connecting starbie to a battery back on the go, you may not want it to be constantly draining power, thus, the on/off button. This also changes my firmware. My firmware is different than the one that was given to us because I added the code for the third button. The code that I added changes the function of the third button. It allows it to control the flow of power from the starbie the the power source.
 
 ## How it works
 
